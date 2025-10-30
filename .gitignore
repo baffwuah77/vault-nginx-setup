@@ -1,0 +1,12 @@
+# Vault data and config
+vault/file/
+vault/config/
+
+# Local environment files
+.env
+
+# System / editor files
+.DS_Store
+*.log
+
+
